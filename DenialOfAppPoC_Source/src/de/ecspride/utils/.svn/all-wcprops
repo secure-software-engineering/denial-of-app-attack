@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ec-spride-sse-android-dos-app/!svn/ver/8/DOSingU/src/de/ecspride/utils
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ec-spride-sse-android-dos-app/!svn/ver/8/DOSingU/src/de/ecspride/utils/FileUtils.java
+END
+Decompress.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ec-spride-sse-android-dos-app/!svn/ver/8/DOSingU/src/de/ecspride/utils/Decompress.java
+END
+ZipSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ec-spride-sse-android-dos-app/!svn/ver/7/DOSingU/src/de/ecspride/utils/ZipSignature.java
+END
+Signer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ec-spride-sse-android-dos-app/!svn/ver/7/DOSingU/src/de/ecspride/utils/Signer.java
+END
+Compress.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ec-spride-sse-android-dos-app/!svn/ver/8/DOSingU/src/de/ecspride/utils/Compress.java
+END

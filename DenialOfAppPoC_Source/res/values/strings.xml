@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Denial-of-App-PoC</string>
+    <string name="action_settings">Settings</string>
+    <string name="packageNameText">App to block (package name):</string>
+    <string name="start">Start&#8230;</string>
+    <string name="facebook_package">com.facebok.katana</string>
+
+</resources>
