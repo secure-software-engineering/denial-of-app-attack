@@ -1,67 +1,0 @@
-10
-
-dir
-8
-https://svn.cased.de/svn/ec-spride-sse-android-dos-app/DOSingU/res
-https://svn.cased.de/svn/ec-spride-sse-android-dos-app
-
-
-
-2014-02-05T10:17:46.141383Z
-7
-srasthofer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6b328131-e653-440f-8c65-e47070b3df38
-
-values
-dir
-
-values-sw720dp-land
-dir
-
-values-sw600dp
-dir
-
-drawable-hdpi
-dir
-
-drawable-xxhdpi
-dir
-
-menu
-dir
-
-values-v11
-dir
-
-drawable-ldpi
-dir
-
-values-v14
-dir
-
-drawable-mdpi
-dir
-
-raw
-dir
-
-drawable-xhdpi
-dir
-
-layout
-dir
-
